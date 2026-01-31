@@ -16,7 +16,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 <table width="100%">
   <tr>
     <td align="center" colspan="2" style="border: none;">
-      <img src="https://github.com/Koodattu/ai-workshop-playground/raw/main/images/ui.png" alt="AI Workshop Playground Preview" width="100%" style="border-radius: 12px;">
+      <img src="https://github.com/Koodattu/ai-workshop-playground/raw/main/images/ui.png" alt="AI Workshop Playground Preview" width="100%">
     </td>
   </tr>
   <tr>
