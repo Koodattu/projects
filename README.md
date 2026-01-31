@@ -69,6 +69,36 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
   </tr>
 </table>
 
+### 🌐 Ala-Ranta.la
+<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v0.0.1-orange" alt="Version">
+
+> A personal website and digital portfolio designed to showcase professional experience and project history.
+
+<table width="100%">
+  <tr>
+    <td align="center" colspan="2" style="border: none;">
+      <img src="https://i.imgur.com/5yB9Irs.png" alt="Ala-Ranta.la Preview" width="100%" style="border-radius: 12px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="border: none;">
+      <a href="https://github.com/Koodattu/"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://ala-ranta.la/"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
+    </td>
+    <td align="right" style="border: none;">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> 
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> 
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> 
+      <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" alt="D3.js">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border: none;">
+      <p>This is a lightweight, static website hosted on GitHub Pages. It serves as a central hub for my education, work experience, and project gallery. It features custom-built data visualizations using D3.js and maintains a clean, responsive interface without the need for heavy frameworks.</p>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 📜 Past
