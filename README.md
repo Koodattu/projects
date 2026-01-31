@@ -385,7 +385,35 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
   </tr>
 </table>
 
+### ☕ Tsumppi Coffee Shop
+<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
+> A dedicated Android catalogue and social media aggregator for the SeAMK student services coffee shop.
+
+<table width="100%">
+  <tr>
+    <td align="center" colspan="2" style="border: none;">
+      <img src="https://i.imgur.com/cQGkFoQ.png" alt="Tsumppi Coffee Shop Preview" width="100%" style="border-radius: 12px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="border: none;">
+      <a href="https://github.com/Koodattu/"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://github.com/Koodattu/"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
+    </td>
+    <td align="right" style="border: none;">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> 
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"> 
+      <img src="https://img.shields.io/badge/XML-0060AC?style=flat-square&logo=xml&logoColor=white" alt="XML"> 
+      <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border: none;">
+      <p>Developed as a student-led initiative to fill the gap in official mobile services, this application provides a centralized hub for coffee shop patrons. It utilizes Java and XML to deliver a smooth mobile interface that synchronizes product catalogue data directly from Google Sheets and aggregates real-time social media updates from Facebook and Instagram feeds.</p>
+    </td>
+  </tr>
+</table>
 
 
 
