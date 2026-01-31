@@ -355,6 +355,8 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
   </tr>
 </table>
 
+---
+
 ### 📱 SeAMK Food Royale
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
@@ -384,6 +386,8 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
     </td>
   </tr>
 </table>
+
+---
 
 ### ☕ Tsumppi Coffee Shop
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
@@ -415,8 +419,37 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
   </tr>
 </table>
 
+---
 
+### 📅 SeAMKLukkari
+<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
+> A feature-rich Android timetable application for SeAMK students, integrating real-time scheduling data with personalized academic planning tools.
+
+<table width="100%">
+  <tr>
+    <td align="center" colspan="2" style="border: none;">
+      <img src="https://i.imgur.com/AJRYsRJ.png" alt="SeAMKLukkari Preview" width="100%" style="border-radius: 12px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="border: none;">
+      <a href="https://github.com/Koodattu/"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://github.com/Koodattu/"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
+    </td>
+    <td align="right" style="border: none;">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> 
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"> 
+      <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch"> 
+      <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=postman&logoColor=white" alt="REST API">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border: none;">
+      <p>SeAMKLukkari is a comprehensive Android timetable mobile application for Seinäjoki University of Applied Sciences students. It fetches real-time scheduling data from Peppi servers using a combination of traditional REST-API requests and high-speed Elasticsearch endpoints. Users can personalize their schedules via a 'study basket' feature, find vacant study rooms, and access campus restaurant menus, all within a bilingual interface supporting English and Finnish.</p>
+    </td>
+  </tr>
+</table>
 
 
 
