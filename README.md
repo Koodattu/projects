@@ -21,8 +21,8 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
   </tr>
   <tr>
     <td align="left" style="border: none;">
-      <a href="INSERT_REPO_URL_HERE"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
-      <a href="INSERT_REPO_URL_HERE"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
+      <a href="https://github.com/Koodattu/ai-workshop-playground"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://playground.koodattu.dev"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
     </td>
     <td align="right" style="border: none;">
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> 
