@@ -39,29 +39,32 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
   </tr>
 </table>
 
-### 🎨 PixelPantry <img src="https://img.shields.io/badge/Status-Beta-orange" alt="Beta"> <img src="https://img.shields.io/badge/Source-Closed-red" alt="Closed Source">
-> A community-driven marketplace for high-quality, royalty-free SVG icons.
+### 🛡️ WoW Guild Progress Tracker
+<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
+
+> A real-time raid progression dashboard for World of Warcraft guilds powered by WarcraftLogs and Blizzard APIs.
 
 <table width="100%">
   <tr>
     <td align="center" colspan="2" style="border: none;">
-      <img src="https://placehold.co/1200x500/3b4252/e5e9f0?text=PixelPantry+App+Interface" alt="PixelPantry" width="100%" style="border-radius: 12px;">
+      <img src="https://placehold.co/1200x500/1a1a1a/f5f5f5?text=WoW+Guild+Progress+Tracker+Preview" alt="WoW Guild Progress Tracker" width="100%" style="border-radius: 12px;">
     </td>
   </tr>
   <tr>
     <td align="left" style="border: none;">
-      <a href="INSERT_DEMO_URL_HERE"><img src="https://img.shields.io/badge/View_Project-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Demo"></a>
+      <a href="https://github.com/Koodattu/wow-guild-progress-tracker"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://github.com/Koodattu/wow-guild-progress-tracker"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
     </td>
     <td align="right" style="border: none;">
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="NextJS"> 
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"> 
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"> 
-      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> 
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> 
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> 
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
     </td>
   </tr>
   <tr>
     <td colspan="2" style="border: none;">
-      <p>Built to solve my own frustration of finding icons that don't look like they're from 2005. Features a custom SVG editor in the browser and a direct Figma integration.</p>
+      <p>This full-stack application monitors mythic and heroic raid progression across multiple guilds simultaneously. It features an intelligent background scheduler that fetches live combat data from WarcraftLogs, tracking pull counts, phase-specific progress, and kill rankings with a responsive Next.js frontend and an Express/MongoDB backend.</p>
     </td>
   </tr>
 </table>
