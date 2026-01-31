@@ -214,3 +214,34 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
     </td>
   </tr>
 </table>
+
+### 🎵 Twitch Song Requests Bot
+<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0.0-orange" alt="Version">
+
+> A Windows desktop application that automates Twitch song requests via Channel Points with seamless Spotify and YouTube integration.
+
+<table width="100%">
+  <tr>
+    <td align="center" colspan="2" style="border: none;">
+      <img src="https://i.imgur.com/tl3li6s.png" alt="Twitch Song Request Bot Preview" width="100%" style="border-radius: 12px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="border: none;">
+      <a href="https://github.com/Koodattu/"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://github.com/Koodattu/"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
+    </td>
+    <td align="right" style="border: none;">
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"> 
+      <img src="https://img.shields.io/badge/.NET_6.0-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"> 
+      <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="WPF"> 
+      <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border: none;">
+      <p>This desktop utility streamlines viewer interaction by reading song requests directly from Twitch Channel Point redemptions. It features a dual-platform engine that triggers playback via the Spotify desktop player or an integrated YouTube player, complete with automatic point refunds if a request cannot be fulfilled and support for custom playback devices.</p>
+    </td>
+  </tr>
+</table>
