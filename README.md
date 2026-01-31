@@ -322,7 +322,38 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
   </tr>
 </table>
 
+---
 
+### 🍱 Lunch Menu Application
+<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
+
+> A full-stack mobile solution for viewing, voting on, and tracking weekly staff restaurant menus with automated document parsing.
+
+<table width="100%">
+  <tr>
+    <td align="center" colspan="2" style="border: none;">
+      <img src="https://i.imgur.com/90eGpV0.png" alt="Lunch Menu App Preview" width="100%" style="border-radius: 12px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="border: none;">
+      <a href="https://github.com/Koodattu/"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://github.com/Koodattu/"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
+    </td>
+    <td align="right" style="border: none;">
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"> 
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"> 
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> 
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border: none;">
+      <p>This application streamlines menu management by automatically fetching Microsoft Word menu files from Google Drive, parsing the content via a Java Spring Boot backend, and storing it in a PostgreSQL database. The Flutter-based mobile frontend provides users with English and Finnish language support, allowing them to browse current and historical menus while engaging in a ranked voting system for individual courses.</p>
+    </td>
+  </tr>
+</table>
 
 
 
