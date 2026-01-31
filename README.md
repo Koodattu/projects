@@ -245,3 +245,68 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
     </td>
   </tr>
 </table>
+
+### 🎧 Twitch & Spotify Song Request Script
+<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
+
+> A lightweight OBS browser source script that automates Spotify song requests via Twitch Channel Points without the need for external hosting.
+
+<table width="100%">
+  <tr>
+    <td align="center" colspan="2" style="border: none;">
+      <img src="https://placehold.co/1200x500/1db954/ffffff?text=Twitch+%2B+Spotify+Integration+Preview" alt="Twitch Spotify Script" width="100%" style="border-radius: 12px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="border: none;">
+      <a href="https://github.com/Koodattu/twitch-spotify-song-request"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://github.com/Koodattu/twitch-spotify-song-request"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
+    </td>
+    <td align="right" style="border: none;">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> 
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> 
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> 
+      <img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white" alt="Twitch">
+      <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border: none;">
+      <p>This project provides a localized solution for streamers to manage music requests. It utilizes a Python Flask server for initial OAuth token generation and a local HTML/JavaScript file to monitor Twitch redemptions. The script automatically searches Spotify for requested tracks, manages the playback queue, and handles point refunds directly in the Twitch chat if a song cannot be found.</p>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
