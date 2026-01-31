@@ -355,7 +355,35 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
   </tr>
 </table>
 
+### 📱 SeAMK Food Royale
+<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
+> An Android mobile application designed for quick side-by-side comparisons of local student restaurant lunch menus.
+
+<table width="100%">
+  <tr>
+    <td align="center" colspan="2" style="border: none;">
+      <img src="https://user-images.githubusercontent.com/36661665/118713733-f3999d00-b82a-11eb-8225-6f6d3b2d5f3a.png" alt="SeAMK Food Royale Preview" width="100%" style="border-radius: 12px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="border: none;">
+      <a href="https://github.com/Koodattu/"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://github.com/Koodattu/"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
+    </td>
+    <td align="right" style="border: none;">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> 
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"> 
+      <img src="https://img.shields.io/badge/XML-0060AC?style=flat-square&logo=xml&logoColor=white" alt="XML"> 
+      <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border: none;">
+      <p>This Android application facilitates easy lunch planning by displaying daily menus from two different restaurants simultaneously. Built with Java and Android Studio, the app dynamically aggregates data by fetching Sodexo menu details via a REST API and employing HTML scraping to extract real-time menu information from the Eventti website.</p>
+    </td>
+  </tr>
+</table>
 
 
 
