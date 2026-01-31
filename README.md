@@ -129,7 +129,35 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
   </tr>
 </table>
 
+### 🎨 Generative Imagining
+<img src="https://img.shields.io/badge/Status-Active_MVP-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/License-Apache_2.0-orange" alt="License">
 
+> An AI-powered platform that turns imagination into images with built-in safety for educational environments.
+
+<table width="100%">
+  <tr>
+    <td align="center" colspan="2" style="border: none;">
+      <img src="https://github.com/Koodattu/generative-imagining/raw/main/images/preview.png" alt="Generative Imagining Preview" width="100%" style="border-radius: 12px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="border: none;">
+      <a href="https://github.com/yourusername/generative-imagining"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://github.com/yourusername/generative-imagining"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
+    </td>
+    <td align="right" style="border: none;">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> 
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"> 
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"> 
+      <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border: none;">
+      <p>Generative Imagining is a bilingual (English/Finnish) tool designed to make AI art accessible and safe for students. Leveraging Google Gemini 2.5 Flash, it allows users to create and edit images via natural language without requiring an account, while providing educators with robust admin tools for content moderation and usage limits.</p>
+    </td>
+  </tr>
+</table>
 
 
 
@@ -156,53 +184,33 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 
 *Completed projects that are now in maintenance mode or concluded.*
 
-### ☁️ StratusDB <img src="https://img.shields.io/badge/Status-Archived-lightgrey" alt="Archived"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source">
-> A lightweight, document-based caching layer for serverless functions.
+### 🎙️ Voice-Guided Image Creation and Editing
+<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v2.0.0-orange" alt="Version">
+
+> A voice-controlled AI ecosystem for generating and editing images through local or cloud-based neural networks.
 
 <table width="100%">
   <tr>
     <td align="center" colspan="2" style="border: none;">
-      <img src="https://placehold.co/1200x500/4c566a/d8dee9?text=StratusDB+Architecture" alt="StratusDB" width="100%" style="border-radius: 12px;">
+      <img src="https://placehold.co/1200x500/1e1e2e/cdd6f4?text=VoiceGuidedImaging+Voice+Interface+Preview" alt="Voice-Guided Image Creation and Editing" width="100%" style="border-radius: 12px;">
     </td>
   </tr>
   <tr>
     <td align="left" style="border: none;">
       <a href="INSERT_REPO_URL_HERE"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="INSERT_REPO_URL_HERE"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
     </td>
     <td align="right" style="border: none;">
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"> 
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"> 
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> 
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"> 
+      <img src="https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"> 
+      <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io"> 
+      <img src="https://img.shields.io/badge/Ollama-white?style=flat-square&logo=ollama&logoColor=black" alt="Ollama">
     </td>
   </tr>
   <tr>
     <td colspan="2" style="border: none;">
-      <p>A hobby project to learn about Raft consensus and distributed systems. It was successfully used in three production apps before being sunset.</p>
-    </td>
-  </tr>
-</table>
-
-### 🤖 TweetBot 9000 <img src="https://img.shields.io/badge/Status-Deprecated-red" alt="Deprecated"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source">
-> An automated Twitter (X) bot that summarized tech news every 4 hours.
-
-<table width="100%">
-  <tr>
-    <td align="center" colspan="2" style="border: none;">
-      <img src="https://placehold.co/1200x500/bf616a/eceff4?text=TweetBot+Logic+Visual" alt="TweetBot" width="100%" style="border-radius: 12px;">
-    </td>
-  </tr>
-  <tr>
-    <td align="left" style="border: none;">
-      <a href="INSERT_REPO_URL_HERE"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
-    </td>
-    <td align="right" style="border: none;">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="NodeJS"> 
-      <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" alt="Puppeteer">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="border: none;">
-      <p>The project was shut down after the API pricing changes, but the source code remains as a reference for Node.js automation and web scraping.</p>
+      <p>Voice-Guided Image Creation and Editing is a dual-server platform that transforms spoken commands into high-quality visual art. It features a decoupled architecture—a lightweight Flask-based relay and a high-performance GPU backend—allowing users to toggle between instant Cloud processing (DALL-E 3/Gemini) and privacy-focused Local inference (SDXL-Lightning/Ollama). With persistent session management and a real-time queue system, it provides a seamless "Push-to-Talk" workflow for complex image evolution and history tracking.</p>
     </td>
   </tr>
 </table>
