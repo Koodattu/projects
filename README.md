@@ -451,9 +451,70 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
   </tr>
 </table>
 
+---
 
+### 🎓 SeAMK WinhaWille
+<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
+> An Android-based academic registry viewer that parses student records and performance metrics directly from campus portals.
 
+<table width="100%">
+  <tr>
+    <td align="center" colspan="2" style="border: none;">
+      <img src="https://i.imgur.com/btJTyOW.png" alt="SeAMK WinhaWille Preview" width="100%" style="border-radius: 12px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="border: none;">
+      <a href="https://github.com/Koodattu/"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://github.com/Koodattu/"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
+    </td>
+    <td align="right" style="border: none;">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> 
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"> 
+      <img src="https://img.shields.io/badge/XML-0060AC?style=flat-square&logo=xml&logoColor=white" alt="XML"> 
+      <img src="https://img.shields.io/badge/Web_Scraping-FF6F00?style=flat-square&logo=google-chrome&logoColor=white" alt="Scraping">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border: none;">
+      <p>WinhaWille is a mobile study registry client developed to provide Seinäjoki University of Applied Sciences students with instant access to their academic progress. By scraping data directly from the institution's WinhaWille website HTML, the app presents a clean interface for users to track their GPA, total credits, and detailed course history with assigned grades.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🥗 SeAMK Ruoka
+<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
+
+> A streamlined Android application providing real-time access to weekly student restaurant menus at Seinäjoki University of Applied Sciences.
+
+<table width="100%">
+  <tr>
+    <td align="center" colspan="2" style="border: none;">
+      <img src="https://i.imgur.com/fjlqPMS.png" alt="SeAMK Ruoka Preview" width="100%" style="border-radius: 12px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="border: none;">
+      <a href="https://github.com/Koodattu/"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://github.com/Koodattu/"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
+    </td>
+    <td align="right" style="border: none;">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> 
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"> 
+      <img src="https://img.shields.io/badge/XML-0060AC?style=flat-square&logo=xml&logoColor=white" alt="XML"> 
+      <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=postman&logoColor=white" alt="REST API">
+      <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border: none;">
+      <p>Created to fill the absence of an official campus dining app, SeAMK Ruoka provides students with an easy way to browse weekly menus. Built with Java and Android Studio, the app communicates with Sodexo's restaurant systems via RESTful API calls to parse and display menu data in a clean, JSON-driven mobile interface.</p>
+    </td>
+  </tr>
+</table>
 
 
 
