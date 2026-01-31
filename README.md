@@ -81,7 +81,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 <table width="100%">
   <tr>
     <td align="center" colspan="2" style="border: none;">
-      <img src="https://i.imgur.com/5yB9Irs.png" alt="Ala-Ranta.la Preview" width="100%" style="border-radius: 12px;">
+      <img src="https://raw.githubusercontent.com/Koodattu/ala-ranta.la/refs/heads/main/images/preview.jpg" alt="Ala-Ranta.la Preview" width="100%" style="border-radius: 12px;">
     </td>
   </tr>
   <tr>
