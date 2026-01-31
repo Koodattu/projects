@@ -39,6 +39,8 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
   </tr>
 </table>
 
+---
+
 ### 🛡️ WoW Guild Progress Tracker
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
@@ -68,6 +70,8 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
     </td>
   </tr>
 </table>
+
+---
 
 ### 🌐 Ala-Ranta.la
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v0.0.1-orange" alt="Version">
@@ -99,6 +103,8 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
   </tr>
 </table>
 
+---
+
 ### 🤖 Vaarattu's Twitch AI Chat Bot
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
@@ -128,6 +134,8 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
     </td>
   </tr>
 </table>
+
+---
 
 ### 🎨 Generative Imagining
 <img src="https://img.shields.io/badge/Status-Active_MVP-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/License-Apache_2.0-orange" alt="License">
@@ -176,7 +184,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 
 
 
-
+---
 
 ---
 
