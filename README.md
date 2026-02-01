@@ -49,7 +49,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 <table width="100%">
   <tr>
     <td align="center" colspan="2" style="border: none;">
-      <img src="https://placehold.co/1200x500/1a1a1a/f5f5f5?text=WoW+Guild+Progress+Tracker+Preview" alt="WoW Guild Progress Tracker" width="100%" style="border-radius: 12px;">
+      <img src="https://github.com/Koodattu/wow-guild-progress-tracker/raw/main/images/preview.jpg" alt="WoW Guild Progress Tracker" width="100%" style="border-radius: 12px;">
     </td>
   </tr>
   <tr>
