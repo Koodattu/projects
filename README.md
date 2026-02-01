@@ -8,7 +8,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 
 *These are my main focus areas. I'm actively pushing code to these daily.*
 
-### 🎨 AI Workshop Playground
+### 🪄 AI Workshop Playground
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
 > Transform ideas into code with an AI-powered, real-time web development IDE.
