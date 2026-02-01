@@ -167,30 +167,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
   </tr>
 </table>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
-
----
-
-## 📜 Past
-
-*Completed projects that are now in maintenance mode or concluded.*
 
 ### 🎙️ Voice-Guided Image Creation and Editing
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v2.0.0-orange" alt="Version">
