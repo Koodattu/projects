@@ -450,7 +450,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 
 ---
 
-### 🥗 SeAMK Ruoka
+### 🍔 SeAMK Ruoka
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
 > A streamlined Android application providing real-time access to weekly student restaurant menus at Seinäjoki University of Applied Sciences.
