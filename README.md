@@ -305,7 +305,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 <table width="100%">
   <tr>
     <td align="center" colspan="2" style="border: none;">
-      <img src="https://i.imgur.com/90eGpV0.png" alt="Lunch Menu App Preview" width="100%" style="border-radius: 12px;">
+      <img src="https://i.imgur.com/90eGpV0.png" alt="Lunch Menu App Preview" width="80%" style="border-radius: 12px;">
     </td>
   </tr>
   <tr>
@@ -338,7 +338,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 <table width="100%">
   <tr>
     <td align="center" colspan="2" style="border: none;">
-      <img src="https://github.com/Koodattu/SeAMK-Projects/raw/main/jere-food-royale-android/images/preview.png" alt="SeAMK Food Royale Preview" width="100%" style="border-radius: 12px;">
+      <img src="https://github.com/Koodattu/SeAMK-Projects/raw/main/jere-food-royale-android/images/preview.png" alt="SeAMK Food Royale Preview" width="60%" style="border-radius: 12px;">
     </td>
   </tr>
   <tr>
@@ -466,7 +466,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 <table width="100%">
   <tr>
     <td align="center" colspan="2" style="border: none;">
-      <img src="https://i.imgur.com/fjlqPMS.png" alt="SeAMK Ruoka Preview" width="100%" style="border-radius: 12px;">
+      <img src="https://github.com/Koodattu/SeAMK-Projects/raw/main/seamk-ruoka/images/preview.png" alt="SeAMK Ruoka Preview" width="60%" style="border-radius: 12px;">
     </td>
   </tr>
   <tr>
