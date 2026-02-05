@@ -173,7 +173,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 <table width="100%">
   <tr>
     <td align="center" colspan="2" style="border: none;">
-      <img src="https://placehold.co/1200x500/1e1e2e/cdd6f4?text=VoiceGuidedImaging+Voice+Interface+Preview" alt="Voice-Guided Image Creation and Editing" width="100%" style="border-radius: 12px;">
+      <img src="https://github.com/Koodattu/voice-guided-imaging/raw/main/readme-image/Capture.PNG" alt="Voice-Guided Image Creation and Editing" width="90%" style="border-radius: 12px;">
     </td>
   </tr>
   <tr>
