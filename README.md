@@ -51,7 +51,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
   <tr>
     <td align="left" style="border: none;">
       <a href="https://github.com/Koodattu/wow-guild-progress-tracker"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
-      <a href="https://github.com/Koodattu/wow-guild-progress-tracker"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
+      <a href="https://suomiwow.vaarattu.tv"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
     </td>
     <td align="right" style="border: none;">
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> 
@@ -82,7 +82,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
   </tr>
   <tr>
     <td align="left" style="border: none;">
-      <a href="https://github.com/Koodattu/"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://github.com/Koodattu/ala-ranta.la"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
       <a href="https://ala-ranta.la/"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
     </td>
     <td align="right" style="border: none;">
@@ -114,8 +114,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
   </tr>
   <tr>
     <td align="left" style="border: none;">
-      <a href="INSERT_REPO_URL_HERE"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
-      <a href="INSERT_REPO_URL_HERE"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
+      <a href="https://github.com/Koodattu/ai-vaarabot-ttv"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
     </td>
     <td align="right" style="border: none;">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> 
@@ -146,8 +145,8 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
   </tr>
   <tr>
     <td align="left" style="border: none;">
-      <a href="https://github.com/yourusername/generative-imagining"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
-      <a href="https://github.com/yourusername/generative-imagining"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
+      <a href="https://github.com/Koodattu/generative-imagining"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://imagine.koodattu.dev"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
     </td>
     <td align="right" style="border: none;">
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> 
@@ -178,8 +177,8 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
   </tr>
   <tr>
     <td align="left" style="border: none;">
-      <a href="INSERT_REPO_URL_HERE"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
-      <a href="INSERT_REPO_URL_HERE"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
+      <a href="https://github.com/Koodattu/voice-guided-imaging"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://imagen.koodattu.dev"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
     </td>
     <td align="right" style="border: none;">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> 
@@ -211,8 +210,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
   </tr>
   <tr>
     <td align="left" style="border: none;">
-      <a href="https://github.com/Koodattu/"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
-      <a href="https://github.com/Koodattu/"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
+      <a href="https://github.com/Koodattu/twitch-song-request-desktop"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
     </td>
     <td align="right" style="border: none;">
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"> 
@@ -245,7 +243,6 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
   <tr>
     <td align="left" style="border: none;">
       <a href="https://github.com/Koodattu/twitch-spotify-song-request"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
-      <a href="https://github.com/Koodattu/twitch-spotify-song-request"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
     </td>
     <td align="right" style="border: none;">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> 
@@ -277,7 +274,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
   </tr>
   <tr>
     <td align="left" style="border: none;">
-      <a href="https://github.com/Koodattu/"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://github.com/Koodattu/fyralath-data-tracker"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
       <a href="https://fyralath.koodattu.dev"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
     </td>
     <td align="right" style="border: none;">
@@ -310,8 +307,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
   </tr>
   <tr>
     <td align="left" style="border: none;">
-      <a href="https://github.com/Koodattu/"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
-      <a href="https://github.com/Koodattu/"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
+      <a href="https://github.com/Koodattu/lunch-menu-app"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
     </td>
     <td align="right" style="border: none;">
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"> 
@@ -343,8 +339,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
   </tr>
   <tr>
     <td align="left" style="border: none;">
-      <a href="https://github.com/Koodattu/"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
-      <a href="https://github.com/Koodattu/"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
+      <a href="https://github.com/Koodattu/SeAMK-Projects/tree/main/jere-food-royale-android"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
     </td>
     <td align="right" style="border: none;">
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> 
@@ -375,8 +370,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
   </tr>
   <tr>
     <td align="left" style="border: none;">
-      <a href="https://github.com/Koodattu/"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
-      <a href="https://github.com/Koodattu/"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
+      <a href="https://github.com/Koodattu/SeAMK-Projects/tree/main/tsumppi-coffee-shop"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
     </td>
     <td align="right" style="border: none;">
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> 
@@ -407,8 +401,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
   </tr>
   <tr>
     <td align="left" style="border: none;">
-      <a href="https://github.com/Koodattu/"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
-      <a href="https://github.com/Koodattu/"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
+      <a href="https://github.com/Koodattu/SeAMK-Lukkari"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
     </td>
     <td align="right" style="border: none;">
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> 
@@ -439,8 +432,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
   </tr>
   <tr>
     <td align="left" style="border: none;">
-      <a href="https://github.com/Koodattu/"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
-      <a href="https://github.com/Koodattu/"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
+      <a href="https://github.com/Koodattu/SeAMK-Projects/tree/main/seamk-winhawille"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
     </td>
     <td align="right" style="border: none;">
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> 
@@ -471,8 +463,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
   </tr>
   <tr>
     <td align="left" style="border: none;">
-      <a href="https://github.com/Koodattu/"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
-      <a href="https://github.com/Koodattu/"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
+      <a href="https://github.com/Koodattu/SeAMK-Projects/tree/main/seamk-ruoka"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
     </td>
     <td align="right" style="border: none;">
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> 
