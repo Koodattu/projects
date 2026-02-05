@@ -109,7 +109,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 <table width="100%">
   <tr>
     <td align="center" colspan="2" style="border: none;">
-      <img src="https://placehold.co/1200x500/9146FF/ffffff?text=Twitch+AI+Chat+Bot+Preview" alt="Twitch AI Bot" width="100%" style="border-radius: 12px;">
+      <img src="https://github.com/Koodattu/ai-vaarabot-ttv/raw/main/images/preview.jpg" alt="Twitch AI Bot" width="100%" style="border-radius: 12px;">
     </td>
   </tr>
   <tr>
