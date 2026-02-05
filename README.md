@@ -338,7 +338,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 <table width="100%">
   <tr>
     <td align="center" colspan="2" style="border: none;">
-      <img src="https://user-images.githubusercontent.com/36661665/118713733-f3999d00-b82a-11eb-8225-6f6d3b2d5f3a.png" alt="SeAMK Food Royale Preview" width="100%" style="border-radius: 12px;">
+      <img src="https://github.com/Koodattu/SeAMK-Projects/raw/main/jere-food-royale-android/images/preview.png" alt="SeAMK Food Royale Preview" width="100%" style="border-radius: 12px;">
     </td>
   </tr>
   <tr>
@@ -394,7 +394,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 
 ---
 
-### 📅 SeAMKLukkari
+### 📅 SeAMK Lukkari
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
 > A feature-rich Android timetable application for SeAMK students, integrating real-time scheduling data with personalized academic planning tools.
@@ -402,7 +402,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 <table width="100%">
   <tr>
     <td align="center" colspan="2" style="border: none;">
-      <img src="https://i.imgur.com/AJRYsRJ.png" alt="SeAMKLukkari Preview" width="100%" style="border-radius: 12px;">
+      <img src="https://github.com/Koodattu/SeAMK-Lukkari/raw/master/images/preview.png" alt="SeAMKLukkari Preview" width="100%" style="border-radius: 12px;">
     </td>
   </tr>
   <tr>
