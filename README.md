@@ -12,7 +12,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 <table width="100%">
   <tr>
     <td align="center" colspan="2" style="border: none;">
-      <img src="https://github.com/Koodattu/ai-workshop-playground/raw/main/images/ui.png" alt="AI Workshop Playground Preview" width="100%">
+      <img src="https://github.com/Koodattu/ai-workshop-playground/raw/main/images/ui.png" alt="AI Workshop Playground Preview" width="90%">
     </td>
   </tr>
   <tr>
@@ -45,7 +45,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 <table width="100%">
   <tr>
     <td align="center" colspan="2" style="border: none;">
-      <img src="https://github.com/Koodattu/wow-guild-progress-tracker/raw/main/images/preview.jpg" alt="WoW Guild Progress Tracker" width="100%" style="border-radius: 12px;">
+      <img src="https://github.com/Koodattu/wow-guild-progress-tracker/raw/main/images/preview.jpg" alt="WoW Guild Progress Tracker" width="90%" style="border-radius: 12px;">
     </td>
   </tr>
   <tr>
@@ -77,7 +77,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 <table width="100%">
   <tr>
     <td align="center" colspan="2" style="border: none;">
-      <img src="https://raw.githubusercontent.com/Koodattu/ala-ranta.la/refs/heads/main/images/preview.jpg" alt="Ala-Ranta.la Preview" width="100%" style="border-radius: 12px;">
+      <img src="https://raw.githubusercontent.com/Koodattu/ala-ranta.la/refs/heads/main/images/preview.jpg" alt="Ala-Ranta.la Preview" width="90%" style="border-radius: 12px;">
     </td>
   </tr>
   <tr>
@@ -109,7 +109,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 <table width="100%">
   <tr>
     <td align="center" colspan="2" style="border: none;">
-      <img src="https://github.com/Koodattu/ai-vaarabot-ttv/raw/main/images/preview.jpg" alt="Twitch AI Bot" width="100%" style="border-radius: 12px;">
+      <img src="https://github.com/Koodattu/ai-vaarabot-ttv/raw/main/images/preview.jpg" alt="Twitch AI Bot" width="80%" style="border-radius: 12px;">
     </td>
   </tr>
   <tr>
@@ -141,7 +141,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 <table width="100%">
   <tr>
     <td align="center" colspan="2" style="border: none;">
-      <img src="https://github.com/Koodattu/generative-imagining/raw/main/images/preview.png" alt="Generative Imagining Preview" width="100%" style="border-radius: 12px;">
+      <img src="https://github.com/Koodattu/generative-imagining/raw/main/images/preview.png" alt="Generative Imagining Preview" width="90%" style="border-radius: 12px;">
     </td>
   </tr>
   <tr>
@@ -206,7 +206,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 <table width="100%">
   <tr>
     <td align="center" colspan="2" style="border: none;">
-      <img src="https://i.imgur.com/tl3li6s.png" alt="Twitch Song Request Bot Preview" width="100%" style="border-radius: 12px;">
+      <img src="https://i.imgur.com/tl3li6s.png" alt="Twitch Song Request Bot Preview" width="90%" style="border-radius: 12px;">
     </td>
   </tr>
   <tr>
@@ -305,7 +305,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 <table width="100%">
   <tr>
     <td align="center" colspan="2" style="border: none;">
-      <img src="https://i.imgur.com/90eGpV0.png" alt="Lunch Menu App Preview" width="80%" style="border-radius: 12px;">
+      <img src="https://i.imgur.com/90eGpV0.png" alt="Lunch Menu App Preview" width="70%" style="border-radius: 12px;">
     </td>
   </tr>
   <tr>
@@ -338,7 +338,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 <table width="100%">
   <tr>
     <td align="center" colspan="2" style="border: none;">
-      <img src="https://github.com/Koodattu/SeAMK-Projects/raw/main/jere-food-royale-android/images/preview.png" alt="SeAMK Food Royale Preview" width="60%" style="border-radius: 12px;">
+      <img src="https://github.com/Koodattu/SeAMK-Projects/raw/main/jere-food-royale-android/images/preview.png" alt="SeAMK Food Royale Preview" width="50%" style="border-radius: 12px;">
     </td>
   </tr>
   <tr>
@@ -370,7 +370,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 <table width="100%">
   <tr>
     <td align="center" colspan="2" style="border: none;">
-      <img src="https://github.com/Koodattu/SeAMK-Projects/raw/main/tsumppi-coffee-shop/images/preview.png" alt="Tsumppi Coffee Shop Preview" width="40%" style="border-radius: 12px;">
+      <img src="https://github.com/Koodattu/SeAMK-Projects/raw/main/tsumppi-coffee-shop/images/preview.png" alt="Tsumppi Coffee Shop Preview" width="50%" style="border-radius: 12px;">
     </td>
   </tr>
   <tr>
@@ -402,7 +402,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 <table width="100%">
   <tr>
     <td align="center" colspan="2" style="border: none;">
-      <img src="https://github.com/Koodattu/SeAMK-Lukkari/raw/master/images/preview.png" alt="SeAMKLukkari Preview" width="100%" style="border-radius: 12px;">
+      <img src="https://github.com/Koodattu/SeAMK-Lukkari/raw/master/images/preview.png" alt="SeAMKLukkari Preview" width="90%" style="border-radius: 12px;">
     </td>
   </tr>
   <tr>
@@ -434,7 +434,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 <table width="100%">
   <tr>
     <td align="center" colspan="2" style="border: none;">
-      <img src="https://i.imgur.com/btJTyOW.png" alt="SeAMK WinhaWille Preview" width="30%" style="border-radius: 12px;">
+      <img src="https://i.imgur.com/btJTyOW.png" alt="SeAMK WinhaWille Preview" width="25%" style="border-radius: 12px;">
     </td>
   </tr>
   <tr>
@@ -466,7 +466,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 <table width="100%">
   <tr>
     <td align="center" colspan="2" style="border: none;">
-      <img src="https://github.com/Koodattu/SeAMK-Projects/raw/main/seamk-ruoka/images/preview.png" alt="SeAMK Ruoka Preview" width="60%" style="border-radius: 12px;">
+      <img src="https://github.com/Koodattu/SeAMK-Projects/raw/main/seamk-ruoka/images/preview.png" alt="SeAMK Ruoka Preview" width="50%" style="border-radius: 12px;">
     </td>
   </tr>
   <tr>
