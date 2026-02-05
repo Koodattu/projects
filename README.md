@@ -370,7 +370,7 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 <table width="100%">
   <tr>
     <td align="center" colspan="2" style="border: none;">
-      <img src="https://i.imgur.com/cQGkFoQ.png" alt="Tsumppi Coffee Shop Preview" width="100%" style="border-radius: 12px;">
+      <img src="https://github.com/Koodattu/SeAMK-Projects/raw/main/tsumppi-coffee-shop/images/preview.png" alt="Tsumppi Coffee Shop Preview" width="100%" style="border-radius: 12px;">
     </td>
   </tr>
   <tr>
