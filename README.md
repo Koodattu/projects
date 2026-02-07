@@ -101,6 +101,38 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 
 ---
 
+### 🤖 Unity 3D AI Assistant
+<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Unity-6000.2.2f1-blue" alt="Unity Version">
+
+> An interactive, voice-controlled 3D avatar that blends natural conversation, generative art, and computer vision-powered gaming.
+
+<table width="100%">
+  <tr>
+    <td align="center" colspan="2" style="border: none;">
+      <img src="https://github.com/Koodattu/unity-3d-ai-assistant/raw/main/images/preview.png" alt="Unity 3D AI Assistant Preview" width="90%" style="border-radius: 12px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="border: none;">
+      <a href="https://github.com/Koodattu/unity-3d-ai-assistant"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+    </td>
+    <td align="right" style="border: none;">
+      <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black" alt="Unity"> 
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"> 
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"> 
+      <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
+      <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white" alt="ElevenLabs">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border: none;">
+      <p>This project brings AI to life through a Ready Player Me 3D avatar capable of holding real-time, multi-lingual conversations. It features a sophisticated animation system with over 50 gestures and lip-syncing tied to ElevenLabs' high-fidelity speech synthesis. Beyond chat, the assistant integrates OpenAI's GPT-4o for logic, Google Gemini for image generation/editing, and webcam-based computer vision to play interactive games like Rock-Paper-Scissors with the user.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📺 Vaarattu.TV
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
