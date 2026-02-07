@@ -1,6 +1,6 @@
 # 🌌 Projects
 
-A comprehensive log of everything I’ve built, what I’m currently hacking on, and the "napkin sketches" for the future.
+A comprehensive log of everything I’ve built.
 
 ---
 
