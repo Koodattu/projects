@@ -69,6 +69,38 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 
 ---
 
+### 🕒 WCL VOD Review
+<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
+
+> Synchronize Warcraft Logs combat reports with video recordings for seamless, frame-by-frame raid analysis.
+
+<table width="100%">
+  <tr>
+    <td align="center" colspan="2" style="border: none;">
+      <img src="https://github.com/Koodattu/wcl-vod-review/raw/main/images/preview.png" alt="WCL VOD Review Preview" width="90%" style="border-radius: 12px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="border: none;">
+      <a href="https://github.com/Koodattu/wcl-vod-review"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+    </td>
+    <td align="right" style="border: none;">
+      <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> 
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> 
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"> 
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border: none;">
+      <p>WCL VOD Review is a specialized tool for World of Warcraft raid leaders and theorycrafters. It creates an interactive, synchronized timeline between Warcraft Logs combat data and Twitch/YouTube VODs. Users can click on specific events—such as player deaths or boss abilities—to instantly jump the video to that exact moment. The platform features an intelligent synchronization engine with manual adjustment controls and uses the Battle.net API to pull real-time boss assets for a high-fidelity review experience.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📺 Vaarattu.TV
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
