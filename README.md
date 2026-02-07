@@ -166,6 +166,38 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 
 ---
 
+### 🍽️ SDX Restaurant Menus
+<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
+
+> Your daily lunch companion for Sodexo restaurants in Finland, featuring real-time menu tracking and location-based discovery.
+
+<table width="100%">
+  <tr>
+    <td align="center" colspan="2" style="border: none;">
+      <img src="https://github.com/Koodattu/sodexo-flutter-lunch-app/raw/main/images/preview.png" alt="SDX Restaurant Menus Preview" width="90%" style="border-radius: 12px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="border: none;">
+      <a href="https://github.com/Koodattu/sodexo-flutter-lunch-app"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://sdx.koodattu.dev"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
+    </td>
+    <td align="right" style="border: none;">
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"> 
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"> 
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> 
+      <img src="https://img.shields.io/badge/Material_Design_3-757575?style=flat-square&logo=materialdesign&logoColor=white" alt="Material 3">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border: none;">
+      <p>SDX Restaurant Menus is a modern, cross-platform application providing instant access to menus for 100+ Sodexo locations across Finland. The app connects directly to the Sodexo Public API and utilizes a Python-based automation layer to maintain restaurant metadata, including geographic coordinates for location-based sorting. Users can personalize their experience with a persistent favorites system, filter by restaurant type (student, office, or café), and browse historical or upcoming menus through a responsive Material Design 3 interface.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🤖 Vaarattu's Twitch AI Chat Bot
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
