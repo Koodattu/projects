@@ -294,6 +294,38 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 
 ---
 
+### 🏆 GPT-Lab Score Keeper
+<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Platform-Mobile--First-orange" alt="Platform">
+
+> A mobile-friendly real-time scoring and leaderboard platform for multi-sport team events.
+
+<table width="100%">
+  <tr>
+    <td align="center" colspan="2" style="border: none;">
+      <img src="https://github.com/Koodattu/TUNI-Projects/raw/main/gpt-lab-score-keeper/images/preview.png" alt="GPT-Lab Score Keeper Preview" width="90%" style="border-radius: 12px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="border: none;">
+      <a href="https://github.com/Koodattu/gpt-lab-score-keeper"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+    </td>
+    <td align="right" style="border: none;">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"> 
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"> 
+      <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="MUI"> 
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border: none;">
+      <p>GPT-Lab Score Keeper is a digital scoreboard designed for coordinating complex multi-sport competitions. It features a responsive, touch-optimized interface for tracking individual and team performance across seven unique sports. The application utilizes a 3-second polling engine for live updates across all spectator devices, includes a PIN-protected admin dashboard for team formation, and is fully containerized with Docker for easy deployment on localized hardware like a Raspberry Pi.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🎵 Twitch Song Requests Bot
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0.0-orange" alt="Version">
 
