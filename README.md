@@ -2,6 +2,18 @@
 
 A comprehensive log of everything I’ve built.
 
+```mermaid
+timeline
+    2016 : SeAMK Ruoka
+    2017 : Tsumppi Coffee Shop : SeAMK Lukkari : SeAMK WinhaWille
+    2018 : SeAMK Food Royale
+    2021 : Lunch Menu Application
+    2023 : Ala-Ranta.la : Twitch Song Requests Bot : Twitch & Spotify Song Request Script
+    2024 : SDX Restaurant Menus : Fyr'alath Data Tracker : Voice-Guided Image Creation and Editing
+    2025 : WoW Guild Progress Tracker : WCL VOD Review : Generative Imagining : Vaarattu.TV : Unity 3D AI Assistant : GPT-Lab Score Keeper
+    2026 : AI Workshop Playground : Vaarattu's Twitch AI Chat Bot
+```
+
 ---
 
 ### 🪄 AI Workshop Playground (2026)
