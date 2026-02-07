@@ -69,6 +69,39 @@ A comprehensive log of everything I’ve built, what I’m currently hacking on,
 
 ---
 
+### 📺 Vaarattu.TV
+<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
+
+> A full-stack Twitch analytics and community engagement platform featuring AI-generated viewer biographies and real-time tracking.
+
+<table width="100%">
+  <tr>
+    <td align="center" colspan="2" style="border: none;">
+      <img src="https://github.com/Koodattu/vaarattu.tv/raw/main/images/preview.png" alt="vaarattu.tv Preview" width="90%" style="border-radius: 12px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="border: none;">
+      <a href="https://github.com/Koodattu/vaarattu.tv"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://vaarattu.tv"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
+    </td>
+    <td align="right" style="border: none;">
+      <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> 
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> 
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border: none;">
+      <p>vaarattu.tv is a comprehensive analytics engine that monitors every interaction on the vaarattu Twitch stream. It utilizes a multi-service Node.js architecture to track watchtime, cross-platform emote usage (BTTV, FFZ, 7TV), and channel point redemptions. The platform’s standout feature is its GPT-4o-mini integration, which generates satirical, Wikipedia-style viewer biographies in Finnish based on real-time chat behavior. The entire stack is containerized with Docker and self-hosted on a Raspberry Pi 5.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🌐 Ala-Ranta.la
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v0.0.1-orange" alt="Version">
 
