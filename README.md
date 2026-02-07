@@ -4,7 +4,7 @@ A comprehensive log of everything I’ve built.
 
 ---
 
-### 🪄 AI Workshop Playground
+### 🪄 AI Workshop Playground (2026)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
 > Transform ideas into code with an AI-powered, real-time web development IDE.
@@ -37,7 +37,38 @@ A comprehensive log of everything I’ve built.
 
 ---
 
-### 🛡️ WoW Guild Progress Tracker
+### 🤖 Vaarattu's Twitch AI Chat Bot (2026)
+<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
+
+> A witty, Gemini-powered Twitch bot featuring conversation memory, ad-detection, and live screenshot analysis.
+
+<table width="100%">
+  <tr>
+    <td align="center" colspan="2" style="border: none;">
+      <img src="https://github.com/Koodattu/ai-vaarabot-ttv/raw/main/images/preview.jpg" alt="Twitch AI Bot" width="80%" style="border-radius: 12px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="border: none;">
+      <a href="https://github.com/Koodattu/ai-vaarabot-ttv"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+    </td>
+    <td align="right" style="border: none;">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> 
+      <img src="https://img.shields.io/badge/Google_Gemini-8E75FF?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"> 
+      <img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white" alt="Twitch"> 
+      <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border: none;">
+      <p>Vaarattu's Twitch AI Chat Bot brings personality to your stream by integrating Google's Gemini AI for witty, context-aware interactions. Beyond chat, it features advanced OCR for ad detection, automatic language detection, and the ability to capture and process live stream screenshots via FFmpeg and Streamlink.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛡️ WoW Guild Progress Tracker (2025)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
 > A real-time raid progression dashboard for World of Warcraft guilds powered by WarcraftLogs and Blizzard APIs.
@@ -69,7 +100,7 @@ A comprehensive log of everything I’ve built.
 
 ---
 
-### 🕒 WCL VOD Review
+### 🕒 WCL VOD Review (2025)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
 > Synchronize Warcraft Logs combat reports with video recordings for seamless, frame-by-frame raid analysis.
@@ -101,39 +132,39 @@ A comprehensive log of everything I’ve built.
 
 ---
 
-### 🤖 Unity 3D AI Assistant
-<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Unity-6000.2.2f1-blue" alt="Unity Version">
+### 🎨 Generative Imagining (2025)
+<img src="https://img.shields.io/badge/Status-Active_MVP-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/License-Apache_2.0-orange" alt="License">
 
-> An interactive, voice-controlled 3D avatar that blends natural conversation, generative art, and computer vision-powered gaming.
+> An AI-powered platform that turns imagination into images with built-in safety for educational environments.
 
 <table width="100%">
   <tr>
     <td align="center" colspan="2" style="border: none;">
-      <img src="https://github.com/Koodattu/unity-3d-ai-assistant/raw/main/images/preview.png" alt="Unity 3D AI Assistant Preview" width="90%" style="border-radius: 12px;">
+      <img src="https://github.com/Koodattu/generative-imagining/raw/main/images/preview.png" alt="Generative Imagining Preview" width="90%" style="border-radius: 12px;">
     </td>
   </tr>
   <tr>
     <td align="left" style="border: none;">
-      <a href="https://github.com/Koodattu/unity-3d-ai-assistant"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://github.com/Koodattu/generative-imagining"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://imagine.koodattu.dev"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
     </td>
     <td align="right" style="border: none;">
-      <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black" alt="Unity"> 
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"> 
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"> 
-      <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
-      <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white" alt="ElevenLabs">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> 
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"> 
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"> 
+      <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
     </td>
   </tr>
   <tr>
     <td colspan="2" style="border: none;">
-      <p>This project brings AI to life through a Ready Player Me 3D avatar capable of holding real-time, multi-lingual conversations. It features a sophisticated animation system with over 50 gestures and lip-syncing tied to ElevenLabs' high-fidelity speech synthesis. Beyond chat, the assistant integrates OpenAI's GPT-4o for logic, Google Gemini for image generation/editing, and webcam-based computer vision to play interactive games like Rock-Paper-Scissors with the user.</p>
+      <p>Generative Imagining is a bilingual (English/Finnish) tool designed to make AI art accessible and safe for students. Leveraging Google Gemini 2.5 Flash, it allows users to create and edit images via natural language without requiring an account, while providing educators with robust admin tools for content moderation and usage limits.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📺 Vaarattu.TV
+### 📺 Vaarattu.TV (2025)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
 > A full-stack Twitch analytics and community engagement platform featuring AI-generated viewer biographies and real-time tracking.
@@ -166,134 +197,71 @@ A comprehensive log of everything I’ve built.
 
 ---
 
-### 🌐 Ala-Ranta.la
-<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v0.0.1-orange" alt="Version">
+### 🤖 Unity 3D AI Assistant (2025)
+<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Unity-6000.2.2f1-blue" alt="Unity Version">
 
-> A personal website and digital portfolio designed to showcase professional experience and project history.
+> An interactive, voice-controlled 3D avatar that blends natural conversation, generative art, and computer vision-powered gaming.
 
 <table width="100%">
   <tr>
     <td align="center" colspan="2" style="border: none;">
-      <img src="https://raw.githubusercontent.com/Koodattu/ala-ranta.la/refs/heads/main/images/preview.jpg" alt="Ala-Ranta.la Preview" width="90%" style="border-radius: 12px;">
+      <img src="https://github.com/Koodattu/unity-3d-ai-assistant/raw/main/images/preview.png" alt="Unity 3D AI Assistant Preview" width="90%" style="border-radius: 12px;">
     </td>
   </tr>
   <tr>
     <td align="left" style="border: none;">
-      <a href="https://github.com/Koodattu/ala-ranta.la"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
-      <a href="https://ala-ranta.la/"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
+      <a href="https://github.com/Koodattu/unity-3d-ai-assistant"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
     </td>
     <td align="right" style="border: none;">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> 
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> 
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> 
-      <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" alt="D3.js">
+      <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black" alt="Unity"> 
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"> 
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"> 
+      <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
+      <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white" alt="ElevenLabs">
     </td>
   </tr>
   <tr>
     <td colspan="2" style="border: none;">
-      <p>This is a lightweight, static website hosted on GitHub Pages. It serves as a central hub for my education, work experience, and project gallery. It features custom-built data visualizations using D3.js and maintains a clean, responsive interface without the need for heavy frameworks.</p>
+      <p>This project brings AI to life through a Ready Player Me 3D avatar capable of holding real-time, multi-lingual conversations. It features a sophisticated animation system with over 50 gestures and lip-syncing tied to ElevenLabs' high-fidelity speech synthesis. Beyond chat, the assistant integrates OpenAI's GPT-4o for logic, Google Gemini for image generation/editing, and webcam-based computer vision to play interactive games like Rock-Paper-Scissors with the user.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🍽️ SDX Restaurant Menus
-<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
+### 🏆 GPT-Lab Score Keeper (2025)
+<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Platform-Mobile--First-orange" alt="Platform">
 
-> Your daily lunch companion for Sodexo restaurants in Finland, featuring real-time menu tracking and location-based discovery.
+> A mobile-friendly real-time scoring and leaderboard platform for multi-sport team events.
 
 <table width="100%">
   <tr>
     <td align="center" colspan="2" style="border: none;">
-      <img src="https://github.com/Koodattu/sodexo-flutter-lunch-app/raw/main/images/preview.png" alt="SDX Restaurant Menus Preview" width="90%" style="border-radius: 12px;">
+      <img src="https://github.com/Koodattu/TUNI-Projects/raw/main/gpt-lab-score-keeper/images/preview.png" alt="GPT-Lab Score Keeper Preview" width="90%" style="border-radius: 12px;">
     </td>
   </tr>
   <tr>
     <td align="left" style="border: none;">
-      <a href="https://github.com/Koodattu/sodexo-flutter-lunch-app"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
-      <a href="https://sdx.koodattu.dev"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
+      <a href="https://github.com/Koodattu/gpt-lab-score-keeper"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
     </td>
     <td align="right" style="border: none;">
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"> 
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"> 
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> 
-      <img src="https://img.shields.io/badge/Material_Design_3-757575?style=flat-square&logo=materialdesign&logoColor=white" alt="Material 3">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"> 
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"> 
+      <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="MUI"> 
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
     </td>
   </tr>
   <tr>
     <td colspan="2" style="border: none;">
-      <p>SDX Restaurant Menus is a modern, cross-platform application providing instant access to menus for 100+ Sodexo locations across Finland. The app connects directly to the Sodexo Public API and utilizes a Python-based automation layer to maintain restaurant metadata, including geographic coordinates for location-based sorting. Users can personalize their experience with a persistent favorites system, filter by restaurant type (student, office, or café), and browse historical or upcoming menus through a responsive Material Design 3 interface.</p>
+      <p>GPT-Lab Score Keeper is a digital scoreboard designed for coordinating complex multi-sport competitions. It features a responsive, touch-optimized interface for tracking individual and team performance across seven unique sports. The application utilizes a 3-second polling engine for live updates across all spectator devices, includes a PIN-protected admin dashboard for team formation, and is fully containerized with Docker for easy deployment on localized hardware like a Raspberry Pi.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🤖 Vaarattu's Twitch AI Chat Bot
-<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
-
-> A witty, Gemini-powered Twitch bot featuring conversation memory, ad-detection, and live screenshot analysis.
-
-<table width="100%">
-  <tr>
-    <td align="center" colspan="2" style="border: none;">
-      <img src="https://github.com/Koodattu/ai-vaarabot-ttv/raw/main/images/preview.jpg" alt="Twitch AI Bot" width="80%" style="border-radius: 12px;">
-    </td>
-  </tr>
-  <tr>
-    <td align="left" style="border: none;">
-      <a href="https://github.com/Koodattu/ai-vaarabot-ttv"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
-    </td>
-    <td align="right" style="border: none;">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> 
-      <img src="https://img.shields.io/badge/Google_Gemini-8E75FF?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"> 
-      <img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white" alt="Twitch"> 
-      <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="FFmpeg">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="border: none;">
-      <p>Vaarattu's Twitch AI Chat Bot brings personality to your stream by integrating Google's Gemini AI for witty, context-aware interactions. Beyond chat, it features advanced OCR for ad detection, automatic language detection, and the ability to capture and process live stream screenshots via FFmpeg and Streamlink.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🎨 Generative Imagining
-<img src="https://img.shields.io/badge/Status-Active_MVP-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/License-Apache_2.0-orange" alt="License">
-
-> An AI-powered platform that turns imagination into images with built-in safety for educational environments.
-
-<table width="100%">
-  <tr>
-    <td align="center" colspan="2" style="border: none;">
-      <img src="https://github.com/Koodattu/generative-imagining/raw/main/images/preview.png" alt="Generative Imagining Preview" width="90%" style="border-radius: 12px;">
-    </td>
-  </tr>
-  <tr>
-    <td align="left" style="border: none;">
-      <a href="https://github.com/Koodattu/generative-imagining"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
-      <a href="https://imagine.koodattu.dev"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
-    </td>
-    <td align="right" style="border: none;">
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> 
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"> 
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"> 
-      <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="border: none;">
-      <p>Generative Imagining is a bilingual (English/Finnish) tool designed to make AI art accessible and safe for students. Leveraging Google Gemini 2.5 Flash, it allows users to create and edit images via natural language without requiring an account, while providing educators with robust admin tools for content moderation and usage limits.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🎙️ Voice-Guided Image Creation and Editing
+### 🎙️ Voice-Guided Image Creation and Editing (2024)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v2.0.0-orange" alt="Version">
 
 > A voice-controlled AI ecosystem for generating and editing images through local or cloud-based neural networks.
@@ -326,103 +294,39 @@ A comprehensive log of everything I’ve built.
 
 ---
 
-### 🏆 GPT-Lab Score Keeper
-<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Platform-Mobile--First-orange" alt="Platform">
-
-> A mobile-friendly real-time scoring and leaderboard platform for multi-sport team events.
-
-<table width="100%">
-  <tr>
-    <td align="center" colspan="2" style="border: none;">
-      <img src="https://github.com/Koodattu/TUNI-Projects/raw/main/gpt-lab-score-keeper/images/preview.png" alt="GPT-Lab Score Keeper Preview" width="90%" style="border-radius: 12px;">
-    </td>
-  </tr>
-  <tr>
-    <td align="left" style="border: none;">
-      <a href="https://github.com/Koodattu/gpt-lab-score-keeper"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
-    </td>
-    <td align="right" style="border: none;">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"> 
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"> 
-      <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="MUI"> 
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="border: none;">
-      <p>GPT-Lab Score Keeper is a digital scoreboard designed for coordinating complex multi-sport competitions. It features a responsive, touch-optimized interface for tracking individual and team performance across seven unique sports. The application utilizes a 3-second polling engine for live updates across all spectator devices, includes a PIN-protected admin dashboard for team formation, and is fully containerized with Docker for easy deployment on localized hardware like a Raspberry Pi.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🎵 Twitch Song Requests Bot
-<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0.0-orange" alt="Version">
-
-> A Windows desktop application that automates Twitch song requests via Channel Points with seamless Spotify and YouTube integration.
-
-<table width="100%">
-  <tr>
-    <td align="center" colspan="2" style="border: none;">
-      <img src="https://i.imgur.com/tl3li6s.png" alt="Twitch Song Request Bot Preview" width="90%" style="border-radius: 12px;">
-    </td>
-  </tr>
-  <tr>
-    <td align="left" style="border: none;">
-      <a href="https://github.com/Koodattu/twitch-song-request-desktop"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
-    </td>
-    <td align="right" style="border: none;">
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"> 
-      <img src="https://img.shields.io/badge/.NET_6.0-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"> 
-      <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="WPF"> 
-      <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="border: none;">
-      <p>This desktop utility streamlines viewer interaction by reading song requests directly from Twitch Channel Point redemptions. It features a dual-platform engine that triggers playback via the Spotify desktop player or an integrated YouTube player, complete with automatic point refunds if a request cannot be fulfilled and support for custom playback devices.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🎧 Twitch & Spotify Song Request Script
+### 🍽️ SDX Restaurant Menus (2024)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
-> A lightweight OBS browser source script that automates Spotify song requests via Twitch Channel Points without the need for external hosting.
+> Your daily lunch companion for Sodexo restaurants in Finland, featuring real-time menu tracking and location-based discovery.
 
 <table width="100%">
   <tr>
     <td align="center" colspan="2" style="border: none;">
-      <img src="https://placehold.co/1200x500/1db954/ffffff?text=Twitch+%2B+Spotify+Integration+Preview" alt="Twitch Spotify Script" width="100%" style="border-radius: 12px;">
+      <img src="https://github.com/Koodattu/sodexo-flutter-lunch-app/raw/main/images/preview.png" alt="SDX Restaurant Menus Preview" width="90%" style="border-radius: 12px;">
     </td>
   </tr>
   <tr>
     <td align="left" style="border: none;">
-      <a href="https://github.com/Koodattu/twitch-spotify-song-request"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://github.com/Koodattu/sodexo-flutter-lunch-app"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://sdx.koodattu.dev"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
     </td>
     <td align="right" style="border: none;">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> 
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"> 
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"> 
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> 
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> 
-      <img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white" alt="Twitch">
-      <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify">
+      <img src="https://img.shields.io/badge/Material_Design_3-757575?style=flat-square&logo=materialdesign&logoColor=white" alt="Material 3">
     </td>
   </tr>
   <tr>
     <td colspan="2" style="border: none;">
-      <p>This project provides a localized solution for streamers to manage music requests. It utilizes a Python Flask server for initial OAuth token generation and a local HTML/JavaScript file to monitor Twitch redemptions. The script automatically searches Spotify for requested tracks, manages the playback queue, and handles point refunds directly in the Twitch chat if a song cannot be found.</p>
+      <p>SDX Restaurant Menus is a modern, cross-platform application providing instant access to menus for 100+ Sodexo locations across Finland. The app connects directly to the Sodexo Public API and utilizes a Python-based automation layer to maintain restaurant metadata, including geographic coordinates for location-based sorting. Users can personalize their experience with a persistent favorites system, filter by restaurant type (student, office, or café), and browse historical or upcoming menus through a responsive Material Design 3 interface.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🪓 Fyr'alath Data Tracker
+### 🪓 Fyr'alath Data Tracker (2024)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v0.0.1-orange" alt="Version">
 
 > A specialized analytics dashboard for World of Warcraft tracking the economic cost and player acquisition rates of the legendary axe, Fyr'alath.
@@ -455,7 +359,103 @@ A comprehensive log of everything I’ve built.
 
 ---
 
-### 🍱 Lunch Menu Application
+### 🌐 Ala-Ranta.la (2023)
+<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v0.0.1-orange" alt="Version">
+
+> A personal website and digital portfolio designed to showcase professional experience and project history.
+
+<table width="100%">
+  <tr>
+    <td align="center" colspan="2" style="border: none;">
+      <img src="https://raw.githubusercontent.com/Koodattu/ala-ranta.la/refs/heads/main/images/preview.jpg" alt="Ala-Ranta.la Preview" width="90%" style="border-radius: 12px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="border: none;">
+      <a href="https://github.com/Koodattu/ala-ranta.la"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://ala-ranta.la/"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
+    </td>
+    <td align="right" style="border: none;">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> 
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> 
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> 
+      <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" alt="D3.js">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border: none;">
+      <p>This is a lightweight, static website hosted on GitHub Pages. It serves as a central hub for my education, work experience, and project gallery. It features custom-built data visualizations using D3.js and maintains a clean, responsive interface without the need for heavy frameworks.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎵 Twitch Song Requests Bot (2023)
+<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0.0-orange" alt="Version">
+
+> A Windows desktop application that automates Twitch song requests via Channel Points with seamless Spotify and YouTube integration.
+
+<table width="100%">
+  <tr>
+    <td align="center" colspan="2" style="border: none;">
+      <img src="https://i.imgur.com/tl3li6s.png" alt="Twitch Song Request Bot Preview" width="90%" style="border-radius: 12px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="border: none;">
+      <a href="https://github.com/Koodattu/twitch-song-request-desktop"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+    </td>
+    <td align="right" style="border: none;">
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"> 
+      <img src="https://img.shields.io/badge/.NET_6.0-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"> 
+      <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="WPF"> 
+      <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border: none;">
+      <p>This desktop utility streamlines viewer interaction by reading song requests directly from Twitch Channel Point redemptions. It features a dual-platform engine that triggers playback via the Spotify desktop player or an integrated YouTube player, complete with automatic point refunds if a request cannot be fulfilled and support for custom playback devices.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎧 Twitch & Spotify Song Request Script (2023)
+<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
+
+> A lightweight OBS browser source script that automates Spotify song requests via Twitch Channel Points without the need for external hosting.
+
+<table width="100%">
+  <tr>
+    <td align="center" colspan="2" style="border: none;">
+      <img src="https://placehold.co/1200x500/1db954/ffffff?text=Twitch+%2B+Spotify+Integration+Preview" alt="Twitch Spotify Script" width="100%" style="border-radius: 12px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="border: none;">
+      <a href="https://github.com/Koodattu/twitch-spotify-song-request"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+    </td>
+    <td align="right" style="border: none;">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> 
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> 
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> 
+      <img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white" alt="Twitch">
+      <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border: none;">
+      <p>This project provides a localized solution for streamers to manage music requests. It utilizes a Python Flask server for initial OAuth token generation and a local HTML/JavaScript file to monitor Twitch redemptions. The script automatically searches Spotify for requested tracks, manages the playback queue, and handles point refunds directly in the Twitch chat if a song cannot be found.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🍱 Lunch Menu Application (2021)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
 > A full-stack mobile solution for viewing, voting on, and tracking weekly staff restaurant menus with automated document parsing.
@@ -487,7 +487,7 @@ A comprehensive log of everything I’ve built.
 
 ---
 
-### 📱 SeAMK Food Royale
+### 📱 SeAMK Food Royale (2018)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
 > An Android mobile application designed for quick side-by-side comparisons of local student restaurant lunch menus.
@@ -518,7 +518,7 @@ A comprehensive log of everything I’ve built.
 
 ---
 
-### ☕ Tsumppi Coffee Shop
+### ☕ Tsumppi Coffee Shop (2017)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
 > A dedicated Android catalogue and social media aggregator for the SeAMK student services coffee shop.
@@ -549,7 +549,7 @@ A comprehensive log of everything I’ve built.
 
 ---
 
-### 📅 SeAMK Lukkari
+### 📅 SeAMK Lukkari (2017)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
 > A feature-rich Android timetable application for SeAMK students, integrating real-time scheduling data with personalized academic planning tools.
@@ -580,7 +580,7 @@ A comprehensive log of everything I’ve built.
 
 ---
 
-### 🎓 SeAMK WinhaWille
+### 🎓 SeAMK WinhaWille (2017)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
 > An Android-based academic registry viewer that parses student records and performance metrics directly from campus portals.
@@ -611,7 +611,7 @@ A comprehensive log of everything I’ve built.
 
 ---
 
-### 🍔 SeAMK Ruoka
+### 🍔 SeAMK Ruoka (2016)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
 > A streamlined Android application providing real-time access to weekly student restaurant menus at Seinäjoki University of Applied Sciences.
