@@ -9,14 +9,14 @@ timeline
     2018 : SeAMK Food Royale
     2021 : Lunch Menu Application
     2023 : Ala-Ranta.la : Twitch Song Requests Bot : Twitch & Spotify Song Request Script
-    2024 : SDX Restaurant Menus : Fyr'alath Data Tracker : Voice-Guided Image Creation and Editing
-    2025 : WoW Guild Progress Tracker : WCL VOD Review : Generative Imagining : Vaarattu.TV : Unity 3D AI Assistant : GPT-Lab Score Keeper
+    2024 : SDX Restaurant Menus : Fyr'alath Data Tracker : Voice-Guided Image Creation and Editing : Apphio Digital
+    2025 : WoW Guild Progress Tracker : WCL VOD Review : Generative Imagining : Vaarattu.TV : Unity 3D AI Assistant : GPT-Lab Score Keeper : Whatsapp AI Chat Bot
     2026 : AI Workshop Playground : Vaarattu's Twitch AI Chat Bot
 ```
 
 ---
 
-### 🪄 AI Workshop Playground (2026)
+### 🪄 AI Workshop Playground (early 2026)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
 > Transform ideas into code with an AI-powered, real-time web development IDE.
@@ -49,7 +49,7 @@ timeline
 
 ---
 
-### 🤖 Vaarattu's Twitch AI Chat Bot (2026)
+### 🤖 Vaarattu's Twitch AI Chat Bot (early 2026)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
 > A witty, Gemini-powered Twitch bot featuring conversation memory, ad-detection, and live screenshot analysis.
@@ -80,7 +80,7 @@ timeline
 
 ---
 
-### 🛡️ WoW Guild Progress Tracker (2025)
+### 🛡️ WoW Guild Progress Tracker (late 2025)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
 > A real-time raid progression dashboard for World of Warcraft guilds powered by WarcraftLogs and Blizzard APIs.
@@ -112,7 +112,7 @@ timeline
 
 ---
 
-### 🕒 WCL VOD Review (2025)
+### 🕒 WCL VOD Review (late 2025)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
 > Synchronize Warcraft Logs combat reports with video recordings for seamless, frame-by-frame raid analysis.
@@ -144,7 +144,7 @@ timeline
 
 ---
 
-### 🎨 Generative Imagining (2025)
+### 🎨 Generative Imagining (late 2025)
 <img src="https://img.shields.io/badge/Status-Active_MVP-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/License-Apache_2.0-orange" alt="License">
 
 > An AI-powered platform that turns imagination into images with built-in safety for educational environments.
@@ -176,7 +176,7 @@ timeline
 
 ---
 
-### 📺 Vaarattu.TV (2025)
+### 📺 Vaarattu.TV (late 2025)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
 > A full-stack Twitch analytics and community engagement platform featuring AI-generated viewer biographies and real-time tracking.
@@ -209,7 +209,7 @@ timeline
 
 ---
 
-### 🤖 Unity 3D AI Assistant (2025)
+### 🤖 Unity 3D AI Assistant (mid 2025)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Unity-6000.2.2f1-blue" alt="Unity Version">
 
 > An interactive, voice-controlled 3D avatar that blends natural conversation, generative art, and computer vision-powered gaming.
@@ -241,7 +241,7 @@ timeline
 
 ---
 
-### 🏆 GPT-Lab Score Keeper (2025)
+### 🏆 GPT-Lab Score Keeper (mid 2025)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Platform-Mobile--First-orange" alt="Platform">
 
 > A mobile-friendly real-time scoring and leaderboard platform for multi-sport team events.
@@ -273,7 +273,38 @@ timeline
 
 ---
 
-### 🚀 Aihio Digital Demo App (2024)
+### 💬 WhatsApp AI Assistant (early 2025)
+<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
+
+> Bring intelligent conversation, image generation, and document processing directly to your favorite messaging platform.
+
+<table width="100%">
+  <tr>
+    <td align="center" colspan="2" style="border: none;">
+      <img src="https://github.com/Koodattu/whats-ai-assistant/raw/main/assets/preview.png" alt="WhatsApp AI Assistant Preview" width="90%" style="border-radius: 12px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="border: none;">
+      <a href="https://github.com/your-username/whats-ai-assistant"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+    </td>
+    <td align="right" style="border: none;">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> 
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"> 
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"> 
+      <img src="https://img.shields.io/badge/DuckDuckGo-DE5833?style=flat-square&logo=duckduckgo&logoColor=white" alt="DDG">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border: none;">
+      <p>Developed as a proof-of-concept for <b>GPT Lab Seinäjoki</b>, this assistant integrates advanced LLMs into WhatsApp using the Neonize framework. It features a robust scenario system—ranging from general assistance to specialized hairdresser and retail modes—while supporting multi-modal capabilities like DALL-E image generation, Whisper audio transcription, and GPT-4 Vision. The bot maintains long-term conversation context via an SQLite database and includes automated tools for scraping URLs and processing PDF/DOCX documents shared in-chat.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Aihio Digital Demo App (late 2024)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0--DEMO-orange" alt="Version">
 
 > A high-fidelity mobile showcase demonstrating how AI transforms marketing analytics, social management, and customer engagement.
@@ -304,7 +335,7 @@ timeline
 
 ---
 
-### 🎙️ Voice-Guided Image Creation and Editing (2024)
+### 🎙️ Voice-Guided Image Creation and Editing (mid 2024)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v2.0.0-orange" alt="Version">
 
 > A voice-controlled AI ecosystem for generating and editing images through local or cloud-based neural networks.
@@ -337,7 +368,7 @@ timeline
 
 ---
 
-### 🍽️ SDX Restaurant Menus (2024)
+### 🍽️ SDX Restaurant Menus (early 2024)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
 > Your daily lunch companion for Sodexo restaurants in Finland, featuring real-time menu tracking and location-based discovery.
@@ -369,7 +400,7 @@ timeline
 
 ---
 
-### 🪓 Fyr'alath Data Tracker (2024)
+### 🪓 Fyr'alath Data Tracker (early 2024)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v0.0.1-orange" alt="Version">
 
 > A specialized analytics dashboard for World of Warcraft tracking the economic cost and player acquisition rates of the legendary axe, Fyr'alath.
@@ -402,7 +433,7 @@ timeline
 
 ---
 
-### 🌐 Ala-Ranta.la (2023)
+### 🌐 Ala-Ranta.la (late 2023)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v0.0.1-orange" alt="Version">
 
 > A personal website and digital portfolio designed to showcase professional experience and project history.
@@ -434,7 +465,7 @@ timeline
 
 ---
 
-### 🎵 Twitch Song Requests Bot (2023)
+### 🎵 Twitch Song Requests Bot (mid 2023)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0.0-orange" alt="Version">
 
 > A Windows desktop application that automates Twitch song requests via Channel Points with seamless Spotify and YouTube integration.
@@ -466,7 +497,7 @@ timeline
 
 ---
 
-### 🎧 Twitch & Spotify Song Request Script (2023)
+### 🎧 Twitch & Spotify Song Request Script (early 2023)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
 > A lightweight OBS browser source script that automates Spotify song requests via Twitch Channel Points without the need for external hosting.
@@ -498,7 +529,7 @@ timeline
 
 ---
 
-### 🍱 Lunch Menu Application (2021)
+### 🍱 Lunch Menu Application (early 2021)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
 > A full-stack mobile solution for viewing, voting on, and tracking weekly staff restaurant menus with automated document parsing.
@@ -530,7 +561,7 @@ timeline
 
 ---
 
-### 📱 SeAMK Food Royale (2018)
+### 📱 SeAMK Food Royale (mid 2018)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
 > An Android mobile application designed for quick side-by-side comparisons of local student restaurant lunch menus.
@@ -561,7 +592,7 @@ timeline
 
 ---
 
-### ☕ Tsumppi Coffee Shop (2017)
+### ☕ Tsumppi Coffee Shop (late 2017)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
 > A dedicated Android catalogue and social media aggregator for the SeAMK student services coffee shop.
@@ -592,7 +623,7 @@ timeline
 
 ---
 
-### 📅 SeAMK Lukkari (2017)
+### 📅 SeAMK Lukkari (mid 2017)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
 > A feature-rich Android timetable application for SeAMK students, integrating real-time scheduling data with personalized academic planning tools.
@@ -623,7 +654,7 @@ timeline
 
 ---
 
-### 🎓 SeAMK WinhaWille (2017)
+### 🎓 SeAMK WinhaWille (early 2017)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
 > An Android-based academic registry viewer that parses student records and performance metrics directly from campus portals.
@@ -654,7 +685,7 @@ timeline
 
 ---
 
-### 🍔 SeAMK Ruoka (2016)
+### 🍔 SeAMK Ruoka (late 2016)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
 > A streamlined Android application providing real-time access to weekly student restaurant menus at Seinäjoki University of Applied Sciences.
@@ -683,20 +714,3 @@ timeline
     </td>
   </tr>
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
