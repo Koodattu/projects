@@ -1,6 +1,6 @@
-# 🌌 Projects
+# 🌌 Projects Showcase
 
-A comprehensive log of everything I’ve built.
+A comprehensive log of everything I’ve built. Currently showcasing **23** projects.
 
 ```mermaid
 timeline
