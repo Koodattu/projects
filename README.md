@@ -176,7 +176,7 @@ timeline
 
 ---
 
-### 📺 Vaarattu.TV (late 2025)
+### 📺 Vaarattu.TV (mid 2025)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
 
 > A full-stack Twitch analytics and community engagement platform featuring AI-generated viewer biographies and real-time tracking.
