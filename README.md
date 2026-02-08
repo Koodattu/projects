@@ -273,6 +273,37 @@ timeline
 
 ---
 
+### 🚀 Aihio Digital Demo App (2024)
+<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0--DEMO-orange" alt="Version">
+
+> A high-fidelity mobile showcase demonstrating how AI transforms marketing analytics, social management, and customer engagement.
+
+<table width="100%">
+  <tr>
+    <td align="center" colspan="2" style="border: none;">
+      <img src="images/apphio.png" alt="Aihio Digital Demo Preview" width="90%" style="border-radius: 12px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="border: none;">
+      <a href="https://github.com/Koodattu/aihio-digital-demo"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+    </td>
+    <td align="right" style="border: none;">
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"> 
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"> 
+      <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
+      <img src="https://img.shields.io/badge/Material_Design_3-757575?style=flat-square&logo=materialdesign&logoColor=white" alt="Material 3">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border: none;">
+      <p>Aihio Digital Demo is a flagship mobile application designed to visualize the future of AI-powered marketing. It aggregates complex data into an intuitive dashboard featuring real-time revenue tracking, SEO performance metrics, and a multi-platform social media hub. The app's core innovation is an integrated AI Marketing Assistant powered by Google Gemini, providing users with instant, strategic consulting. Built with Flutter, it delivers a premium, mobile-first experience tailored for business owners and marketing professionals looking to leverage data-driven optimization.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🎙️ Voice-Guided Image Creation and Editing (2024)
 <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v2.0.0-orange" alt="Version">
 
