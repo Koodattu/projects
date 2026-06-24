@@ -1,6 +1,6 @@
 # 🌌 Projects Showcase
 
-A comprehensive log of everything I’ve built. Currently showcasing **23** projects.
+A comprehensive log of everything I’ve built. Currently showcasing **25** projects.
 
 ```mermaid
 timeline
@@ -11,8 +11,74 @@ timeline
     2023 : Ala-Ranta.la : Twitch Song Requests Bot : Twitch & Spotify Song Request Script
     2024 : SDX Restaurant Menus : Fyr'alath Data Tracker : Voice-Guided Image Creation and Editing : Apphio Digital
     2025 : WoW Guild Progress Tracker : WCL VOD Review : Generative Imagining : Vaarattu.TV : Unity 3D AI Assistant : GPT-Lab Score Keeper : Whatsapp AI Chat Bot
-    2026 : AI Workshop Playground : Vaarattu's Twitch AI Chat Bot
+    2026 : TREPO Research Analytics : Niilo22.dev : AI Workshop Playground : Vaarattu's Twitch AI Chat Bot
 ```
+
+---
+
+### 📊 TREPO Research Analytics (early 2026)
+<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
+
+> Explore Tampere University's TREPO publications with scraping, enrichment, and an interactive analytics dashboard.
+
+<table width="100%">
+  <tr>
+    <td align="center" colspan="2" style="border: none;">
+      <img src="https://github.com/Koodattu/trepo-analytics/raw/main/trepo_analytics.PNG" alt="TREPO Research Analytics Preview" width="90%" style="border-radius: 12px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="border: none;">
+      <a href="https://github.com/Koodattu/trepo-analytics"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://trepo.koodattu.dev"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
+    </td>
+    <td align="right" style="border: none;">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border: none;">
+      <p>TREPO Research Analytics is a local analytics toolkit for Tampere University's open repository. It scrapes recent submissions, enriches publication records with accepted dates, download counts, and optional OpenAI title-interest ratings, then stores everything in SQLite for CLI reports and a Flask dashboard with metrics, charts, rankings, random discovery picks, and searchable/filterable works.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔍 Niilo22.dev (early 2026)
+<img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active"> <img src="https://img.shields.io/badge/Source-Open-blue" alt="Open Source"> <img src="https://img.shields.io/badge/Version-v1.0.0-orange" alt="Version">
+
+> Search exact moments in Niilo22 videos through timestamped Finnish transcripts and a full-stack web app.
+
+<table width="100%">
+  <tr>
+    <td align="center" colspan="2" style="border: none;">
+      <img src="https://github.com/Koodattu/niilo22-dev/raw/main/niilo22_dev.PNG" alt="Niilo22.dev Preview" width="90%" style="border-radius: 12px;">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" style="border: none;">
+      <a href="https://github.com/Koodattu/niilo22-dev"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://niilo22.koodattu.dev"><img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo"></a>
+    </td>
+    <td align="right" style="border: none;">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+      <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border: none;">
+      <p>Niilo22.dev turns YouTube videos into a searchable transcript archive. A Python pipeline fetches video metadata, downloads media with yt-dlp, transcribes Finnish speech with faster-whisper into word-level timestamp JSON, and imports the data into PostgreSQL. The web stack pairs a Fastify API with a Next.js frontend for timestamped search results, video result pages, and direct links to exact moments in each video.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
